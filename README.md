@@ -25,4 +25,4 @@
 * Gained hands-on experience in DOM manipulation, event handling, and debugging JavaScript code.
 * Strengthened problem-solving skills by addressing challenges like responsive layout adjustments and real-time cart updates.
 ### Outcome: 
-*Successfully created an interactive and functional e-commerce platform prototype that mimics core features of the Myntra website, showcasing proficiency in front-end web development.
+* Successfully created an interactive and functional e-commerce platform prototype that mimics core features of the Myntra website, showcasing proficiency in front-end web development.
